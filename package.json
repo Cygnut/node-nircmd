@@ -1,7 +1,12 @@
 {
   "name": "node-nircmd",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "NodeJs wrapper around the Windows-only nircmd cli.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cygnut/node-nircmd.git"
+  },  
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
